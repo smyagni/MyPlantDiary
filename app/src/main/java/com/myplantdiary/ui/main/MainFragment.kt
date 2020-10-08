@@ -27,4 +27,7 @@ class MainFragment : Fragment() {
         // TODO: Use the ViewModel
     }
 
+    fun test(){
+        println("test")
+    }
 }
